@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fakturace"
+    }
+  },
+  "defaultProject": "fakturace",
+  "cli": {
+    "analytics": false
+  }
 }
